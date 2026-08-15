@@ -1,0 +1,6 @@
+﻿# Robots.txt for Z Media Production (https://zmediaproduction.vercel.app)
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://zmediaproduction.vercel.app/sitemap.xml
