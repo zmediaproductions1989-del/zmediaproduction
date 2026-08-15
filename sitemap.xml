@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Home Page -->
+  <url>
+    <loc>https://zmediaproduction.vercel.app/</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://zmediaproduction.vercel.app/images/hero.jpg</image:loc>
+      <image:title>Z Media Production - Best Wedding Photographer and Videographer in Kolkata</image:title>
+      <image:caption>Wedding photography and cinematic videography in Kolkata by Z Media Production</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Wedding Packages Page -->
+  <url>
+    <loc>https://zmediaproduction.vercel.app/#services</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Contact Us Page -->
+  <url>
+    <loc>https://zmediaproduction.vercel.app/#contact</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Terms & Conditions Page -->
+  <url>
+    <loc>https://zmediaproduction.vercel.app/#terms</loc>
+    <lastmod>2026-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
