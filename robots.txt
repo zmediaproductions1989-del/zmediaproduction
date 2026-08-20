@@ -1,6 +1,137 @@
-﻿# Robots.txt for Z Media Production (https://zmediaproduction.vercel.app)
-User-agent: *
+User-Agent: *
 Allow: /
+Allow: /llms.txt
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
 
-# Sitemap Location
+User-Agent: Googlebot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Bingbot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: ChatGPT-User
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Claude-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Claude-Web
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: PerplexityBot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Perplexity-User
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Applebot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: GPTBot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: ClaudeBot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: CCBot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Amazonbot
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Bytespider
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: anthropic-ai
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Google-Extended
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Applebot-Extended
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+User-Agent: Meta-ExternalAgent
+Allow: /
+Disallow: /api/
+Disallow: /private/
+Disallow: /search/
+Disallow: /thank-you/
+
+Host: zmediaproduction.vercel.app
 Sitemap: https://zmediaproduction.vercel.app/sitemap.xml
+Sitemap: https://zmediaproduction.vercel.app/image-sitemap.xml
