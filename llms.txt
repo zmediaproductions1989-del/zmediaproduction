@@ -7,7 +7,7 @@ Z Media Production shoots weddings both within Kolkata and outstation across Ind
 ## Pages
 
 - [Home](https://zmediaproduction.vercel.app): Studio overview, core services, embedded wedding films (YouTube), client reviews and FAQs about booking and coverage areas.
-- [Services & Packages](https://zmediaproduction.vercel.app/services): Full breakdown and pricing of the Essential, Classic and Premium wedding packages, plus a booking/enquiry form.
+- [Services & Packages](https://zmediaproduction.vercel.app/packages): Full breakdown and pricing of the Essential, Classic and Premium wedding packages, plus a booking/enquiry form.
 - [Terms & Conditions](https://zmediaproduction.vercel.app/terms): Booking deposit and payment terms, cancellation policy, copyright and photo ownership, file retention periods, liability and rescheduling rules.
 - [Contact](https://zmediaproduction.vercel.app/contact): Phone, WhatsApp, email, studio address, Google Maps location and social media links.
 
